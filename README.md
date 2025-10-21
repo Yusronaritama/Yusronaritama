@@ -20,6 +20,6 @@ Saya seorang pengembang perangkat lunak dengan fokus pada pengembangan web. Saat
 
 #### 📫 Cara Menghubungi Saya:
 - **LinkedIn:** [linkedin.com/in/username-anda](https://linkedin.com/in/username-anda)
-- **Email:** namaemail@contoh.com
+- **Email:** Yusronaritama@gmail.com
 
 ![Yusronaritama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusronaritama&show_icons=true&theme=radical)
