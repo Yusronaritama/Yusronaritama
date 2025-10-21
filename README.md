@@ -7,7 +7,7 @@ Saya seorang pengembang perangkat lunak dengan fokus pada pengembangan web. Saat
 #### 🔧 Teknologi & Tools yang Saya Kuasai:
 - **Bahasa:** Python, JavaScript (Node.js)
 - **Framework:** Django, React
-- **Database:** PostgreSQL, MongoDB
+- **Database:** PostgreSQL, MongoDB, PhpMyAdmin
 - **Tools:** Docker, Git, Jenkins
 
 ---
