@@ -6,7 +6,7 @@ Saya seorang pengembang perangkat lunak dengan fokus pada pengembangan web. Saat
 
 #### 🔧 Teknologi & Tools yang Saya Kuasai:
 - **Bahasa:** Python, JavaScript (Node.js), PHP
-- **Framework:** Laravel, Ionic
+- **Framework:** Laravel, Ionic, Vue
 - **Database:** MySql
 - **Tools:** Docker, Git, VsCode
 
