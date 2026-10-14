@@ -13,7 +13,7 @@ Saya seorang pengembang perangkat lunak dengan fokus pada pengembangan web. Saat
 ---
 
 #### 🌱 Proyek Unggulan:
-- **[Nama Proyek 1](link-ke-repo-proyek-1)**: Deskripsi singkat tentang proyek ini dan teknologi yang digunakan.
+- **[Warehouse_WAREREX]([link-ke-repo-proyek-1](https://github.com/Yusronaritama/warehouse.git))**: Website Manajemen Gudang
 - **[Nama Proyek 2](link-ke-repo-proyek-2)**: Deskripsi singkat tentang proyek ini.
 
 ---
